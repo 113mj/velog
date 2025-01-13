@@ -1,4 +1,4 @@
-mport feedparser
+import feedparser
 import git
 import os
 
